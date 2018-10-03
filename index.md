@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+Patrick Iskandar
+	(203) 554-6812 • patrick.iskandar@mail.mcgill.ca
 
-You can use the [editor on GitHub](https://github.com/patrickiskandar/Resume/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+EDUCATION		 
+McGill University –Faculty of Arts, Montreal, Canada	2017 - 2021
+Bachelor of Arts, Major in Computer Science	
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Greenwich High School, Greenwich, CT, USA	2013 - 2017
+Diploma
 
-### Markdown
+Awards: 
+AP Scholar with Distinction Award (2016 and 2017)
+National AP Scholar Award (2017)
+AP International Diploma (2017)
+National Merit Commended Scholar (2016)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+WORK EXPERIENCE	
+Zaniac Learning, Greenwich, CT, USA 	Summer 2018
+Instructor
+•	Taught math, computer programming, and music production to students
+•	Took calls and helped parents at front desk
+•	Facilitated course registration and updating company website
 
-```markdown
-Syntax highlighted code block
+Brain Boost Learning, Greenwich, CT, USA 	Summer 2017
+Instructor
+•	Taught math and computer programming to students
+•	Took calls at front desk
+•	Helped with course registration
 
-# Header 1
-## Header 2
-### Header 3
+Milbrook Country Club, Greenwich, CT, USA 	2015
+Tennis Pro Shop Manager
+•	Responsible for customer service and sales
+•	Kept accounts of monthly revenue
+•	Maintained general upkeep of store and tennis courts
+•	Addressed questions about programs, classes, and equipment
 
-- Bulleted
-- List
+SKILLS AND INTERESTS	
+Language Skills: Fluent English, conversational French
+Computer Skills: Java, C, Python, HTML, Microsoft Office
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/patrickiskandar/Resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
